@@ -35,6 +35,7 @@ multinodoveho prostredi
 - dokumentace api pres Swagger
 - projit pom a pro jistotu zbuildene jar na zbytecnosti a zmensit velikost jar. 82 MB je moc :)
 - pridat releasovani napr pres maven release plugin
+- pridat exception resolver pro zobrazovani lepsich hlasek
 - smazani maven wrapperu
 - bonusove ulohy :)
 
